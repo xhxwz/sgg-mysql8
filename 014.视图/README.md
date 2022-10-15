@@ -1,0 +1,10 @@
+## 创建视图
+
+```sql
+CREATE [OR REPLACE] 
+[ALGORITHM = {UNDEFINED | MERGE | TEMPTABLE}] 
+VIEW 视图名称 [(字段列表)]
+AS 查询语句
+[WITH [CASCADED|LOCAL] CHECK OPTION]
+```
+
