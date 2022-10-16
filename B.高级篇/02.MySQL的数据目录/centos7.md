@@ -1,0 +1,5 @@
+- 数据库文件存放目录：`/var/lib/mysql`
+- 相关命令目录：`/usr/bin`、`/usr/sbin`
+- 配置文件：
+  - `/usr/share/mysql-8.0` 命令及配置文件
+  - `/etc/my.cnf` 
